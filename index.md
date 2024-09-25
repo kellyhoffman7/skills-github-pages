@@ -1,4 +1,8 @@
 ---
-title: Welcome to my blog
+# Hello!
+
+Welcome to my blog. 
+
+##### I'm excited to start coding!
 ---
 
